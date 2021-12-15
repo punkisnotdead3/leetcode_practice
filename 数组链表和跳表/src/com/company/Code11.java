@@ -1,6 +1,6 @@
 package com.company;
 
-public class Code11_1 {
+public class Code11 {
     /**
      *  双指针
      *  leftP 指向 数组头部 rightP 指向数组尾部
